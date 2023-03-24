@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\bin\Debug\net6.0\modul5_1302210128.exe
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\bin\Debug\net6.0\modul5_1302210128.deps.json
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\bin\Debug\net6.0\modul5_1302210128.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\bin\Debug\net6.0\modul5_1302210128.dll
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\bin\Debug\net6.0\modul5_1302210128.pdb
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.dll
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\refint\modul5_1302210128.dll
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.pdb
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\modul5_1302210128.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\Ariel\modul5_1302210128\obj\Debug\net6.0\ref\modul5_1302210128.dll
